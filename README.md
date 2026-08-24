@@ -16,6 +16,9 @@ Built with **Vue**.
 
 ---
 
+<img width="236" height="260" alt="cat" src="https://github.com/user-attachments/assets/7d9fb824-e9be-47a1-9cf4-f2fed0cf2364" />
+
+
 <p align="center">
   <a href="https://github.com/Connor-Valley?tab=repositories">See all repositories →</a>
 </p>
