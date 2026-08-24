@@ -12,7 +12,7 @@ Built with **Vue**.
 
 ### 🛠️ Things I work with
 
-`TypeScript` `JavaScript` `Node.js` `Vue` `Electron` `HTML/CSS`
+`TypeScript` `JavaScript` `Node.js` `Vue` `Electron` `HTML/CSS` `Python` `Java` 
 
 ---
 
