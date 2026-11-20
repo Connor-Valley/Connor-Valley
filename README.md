@@ -4,7 +4,9 @@
 
 ### 🚧 Currently building
 
-**[atlas](https://github.com/Connor-Valley/atlas)** — helps you find where to live based on what actually matters to you. It pulls in public data (cost of living, safety, climate, walkability, and more) and runs it through a personalized, preference-weighted scoring system so the "best place to live" answer is tailored to you instead of a generic ranking.
+**atlas** — helps you find where to live based on what actually matters to you. It pulls in public data (cost of living, safety, climate, walkability, and more) and runs it through a personalized, preference-weighted scoring system so the "best place to live" answer is tailored to you instead of a generic ranking.
+
+Check it out: [atlas-web-smoky-ten.vercel.app](atlas-web-smoky-ten.vercel.app)
 
 Built with **Vue**.
 
